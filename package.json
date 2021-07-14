@@ -1,0 +1,24 @@
+{
+  "name": "cli-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/ejs": "^3.0.7",
+    "@types/fs-extra": "^9.0.12",
+    "@types/node": "^15.12.5",
+    "commander": "^8.0.0",
+    "ejs": "^3.1.6",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.1.1",
+    "mkdirp": "^1.0.4",
+    "ora": "^5.4.1",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.5"
+  }
+}
